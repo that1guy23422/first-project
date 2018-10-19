@@ -4,10 +4,11 @@ body {
 }
 h1 span {
     color: blue;
-    border-top: 1px solid cyan;
+    border-top: 1px solid #333333;
     border-right: 1px solid #333333;
     border-bottom: 1px solid #333333;
-    border-left: 1px solid cyan;
+    border-left: 1px solid #333333;
+    background-color: cyan;
 }
 p {
     color: red;
