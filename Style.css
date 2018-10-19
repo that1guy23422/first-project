@@ -1,13 +1,14 @@
 body {
     background-color: powderblue;
+    text-align: center;
 }
 h1 span {
     color: blue;
-    border-top: 1px solid #CCCCCC;
+    border-top: 1px solid cyan;
     border-right: 1px solid #333333;
     border-bottom: 1px solid #333333;
-    border-left: 1px solid #CCCCCC;
-    background-color: #EEEEEE;
+    border-left: 1px solid cyan;
+    background-color: #04800a;
 }
 p {
     color: red;
@@ -19,6 +20,7 @@ text-shadow: 1px 1px #333333;
 .button {
     text-decoration: none;
     line-height:150%;
+    text-align: center;
 }
 a {
     font-family: helvetica;
